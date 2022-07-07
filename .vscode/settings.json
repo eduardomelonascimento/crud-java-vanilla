@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "resources/mysql-connector-java-8.0.29.jar"
+  ],
+  "editor.cursorStyle": "line-thin",
+  "editor.autoClosingBrackets": "always"
+}
