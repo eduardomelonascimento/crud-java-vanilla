@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class ConnectionFactory {
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "EduApple#0104";
+    private static final String PASSWORD = "pass";
     private static final String DB_URL = "jdbc:mysql://localhost:3306/agenda";
 
     public static Connection createConnectionToMySQL() throws Exception {
